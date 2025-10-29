@@ -44,6 +44,7 @@ Example pom.xml (simplified skeleton):
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>25</java.version>
+        <maven.compiler.proc>full</maven.compiler.proc>
         <!-- additional properties here (including any overwrites of parent versioning) -->
     </properties>
 
