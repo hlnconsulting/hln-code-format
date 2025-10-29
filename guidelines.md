@@ -38,12 +38,12 @@ Example pom.xml (simplified skeleton):
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>X.X.X</version>
+        <version>3.5.X</version>
     </parent>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>21</java.version>
+        <java.version>25</java.version>
         <!-- additional properties here (including any overwrites of parent versioning) -->
     </properties>
 
